@@ -4,6 +4,7 @@
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
 -[Akash](https://github.com/Akash-code-0-1)
+-[Ryu](https://github.com/wrryu528-wq)
 -[shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
@@ -2510,5 +2511,4 @@ DanyLeeCS
 - [bi3mer](https://github.com/bi3mer)
 - [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 - [audrbsdl](https://github.com/audrbsdl)
-
-abc
+- [Huynh Van Nhan](https://github.com/huynhvannhan2k4)
